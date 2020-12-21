@@ -1,0 +1,21 @@
+.txt-center{
+  text-align: center;
+}
+
+.txt-right{
+  text-align: right;
+}
+.j-c-c{
+  justify-content: center;
+}
+.p-0{
+  padding: 0px;
+}
+
+.jova-main-area{
+  background-size: 110% 160%;
+  height: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
